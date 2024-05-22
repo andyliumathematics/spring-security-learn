@@ -1,0 +1,10 @@
+# spring.application.name=spring-security-learn
+spring:
+  application:
+    name: spring-security-learn
+  # security:
+    # user:
+      # name: admin
+      # password: 123456
+server:
+  port: 9090
